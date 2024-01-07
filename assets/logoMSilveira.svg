@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270" height="100" viewBox="361 96 270 100">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 200px;
+        font-family: "Ink Free";
+      }
+
+      .cls-1, .cls-2 {
+        fill: #181818;
+        text-anchor: middle;
+      }
+
+      .cls-2 {
+        font-size: 100px;
+        font-family: "Bodoni MT";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <image id="Camada_1" data-name="Camada 1" x="143" y="184" width="36" height="13" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAANCAYAAADBo8xmAAAAfUlEQVQ4jc3STQqAIBCG4W8sOsO06f7nCsJLBBOzMCaQMHHSF2arjz9g5gUFicgvEwBsJSAiusczBa1f17e41sgZwNRioRqUPlEO1C17iITrCrIpjpkpjALSYozS5YZyfyflDnrbPJcL6CvCpqBzBEhKQbvnBjWgoyfgEYAL6zxtLqRfansAAAAASUVORK5CYII="/>
+  <text id="S" class="cls-1" transform="translate(463.51 176.625) rotate(4.918) scale(0.456)"><tspan x="0">S</tspan></text>
+  <text id="M" class="cls-1" transform="translate(420.023 178.71) scale(0.456)"><tspan x="0">M</tspan></text>
+  <text id="ilveira" class="cls-2" transform="matrix(0.456, -0.002, 0.002, 0.456, 544.671, 174.59)"><tspan x="0">ilveira</tspan></text>
+</svg>
